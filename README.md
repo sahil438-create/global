@@ -10,10 +10,10 @@ Install dependencies
 
 
 3 Start the development server
-npm start
+npm run dev
 
 
-4 Access the app at http://localhost:3000
+4 Access the app at http://localhost:5173
 Credentials
 Email: eve.holt@reqres.in
 Password: cityslicka
